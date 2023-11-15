@@ -17,5 +17,5 @@
         options: ['Elephant', 'Blue Whale', 'Giraffe', 'Hippopotamus'],
         correctAnswer: 'Blue Whale',
       },
-      // Add more questions as needed
+
     ];
